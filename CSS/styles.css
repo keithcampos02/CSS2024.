@@ -1,3 +1,27 @@
 html {
-    background-color: black;
+    background-color: #dcde17
+}
+
+h1 {
+color: green;
+background-color: black;
+}
+
+p{
+
+    color: #73a90c;
+}
+
+
+div{
+
+    background-color: red;
+    color: white;
+    width: 200px; height: 200px;
+    border: 5px solid black;
+}
+
+a{
+
+    background-color: darkmagenta;
 }
