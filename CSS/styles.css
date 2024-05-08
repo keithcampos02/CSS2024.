@@ -1,27 +1,18 @@
-body {
-    background-color: cadetblue
+.micuadro{
+height: 200px;
+width: 200px;
+background-color: blue;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+text-align: center;
+
+
 }
 
 
-.caja1 {
-    color: green;
-    background-color: white;
-    height: 250px;
-    width: 250px;
-    border: 2px solid black;
-    padding: 20px;
-}
+.micuadro:hover{
+    background-color: aqua;
 
-.caja2 {
-    color: black;
-    background-color: white;
-    font-weight: 250px;
-    width: 250px
-}
 
-.caja3 {
-    color: yellow;
-    background-color: white;
-    font-weight: 250px;
-    width: 250px
 }
