@@ -1,0 +1,16 @@
+a{
+    color: blue;
+}
+
+a:hover{
+    color: red;
+}
+
+input{
+    background-color: white;
+}
+
+input:focus{
+    background-color: yellow;
+}
+
